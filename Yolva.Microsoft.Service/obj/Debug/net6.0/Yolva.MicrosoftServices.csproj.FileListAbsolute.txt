@@ -1,0 +1,12 @@
+C:\Yolva\TMS\Yolva.Microsoft.Service\bin\Debug\net6.0\Yolva.MicrosoftServices.deps.json
+C:\Yolva\TMS\Yolva.Microsoft.Service\bin\Debug\net6.0\Yolva.MicrosoftServices.dll
+C:\Yolva\TMS\Yolva.Microsoft.Service\bin\Debug\net6.0\Yolva.MicrosoftServices.pdb
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.csproj.AssemblyReference.cache
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.AssemblyInfoInputs.cache
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.AssemblyInfo.cs
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.csproj.CoreCompileInputs.cache
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.dll
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\refint\Yolva.MicrosoftServices.dll
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\Yolva.MicrosoftServices.pdb
+C:\Yolva\TMS\Yolva.Microsoft.Service\obj\Debug\net6.0\ref\Yolva.MicrosoftServices.dll

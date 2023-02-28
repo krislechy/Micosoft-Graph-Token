@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNPcvxBBzO07YGE74KF9xcPZssR5MaTyLX+Rwetj5HTsLFqlW9gWW4uiI0ZeoxpZ2+JOJ46g12wOuLGD98ZHAA==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\Yolva.MicrosoftServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krislechy\\.nuget\\packages\\derconverter\\3.0.0.82\\derconverter.3.0.0.82.nupkg.sha512",
+    "C:\\Users\\krislechy\\.nuget\\packages\\jwt\\8.9.0\\jwt.8.9.0.nupkg.sha512",
+    "C:\\Users\\krislechy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\krislechy\\.nuget\\packages\\pemutils\\3.0.0.82\\pemutils.3.0.0.82.nupkg.sha512"
+  ],
+  "logs": []
+}

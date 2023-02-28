@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Yolva.MicrosoftServices/1.0.0": {
+        "dependencies": {
+          "JWT": "8.9.0",
+          "Newtonsoft.Json": "13.0.1",
+          "PemUtils": "3.0.0.82"
+        },
+        "runtime": {
+          "Yolva.MicrosoftServices.dll": {}
+        }
+      },
+      "DerConverter/3.0.0.82": {
+        "runtime": {
+          "lib/netstandard2.0/DerConverter.dll": {
+            "assemblyVersion": "3.0.0.82",
+            "fileVersion": "3.0.0.82"
+          }
+        }
+      },
+      "JWT/8.9.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/JWT.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "PemUtils/3.0.0.82": {
+        "dependencies": {
+          "DerConverter": "3.0.0.82"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PemUtils.dll": {
+            "assemblyVersion": "3.0.0.82",
+            "fileVersion": "3.0.0.82"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yolva.MicrosoftServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DerConverter/3.0.0.82": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6x9+tHjO7IqGtgLlPAc6P1gKGmSl4s5c35M2g6DoOWHWY5RRYRX5LioXD8347Uf4VIuNGoYvRowKiJFHhkkFRA==",
+      "path": "derconverter/3.0.0.82",
+      "hashPath": "derconverter.3.0.0.82.nupkg.sha512"
+    },
+    "JWT/8.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XPj1//MhluGE3FsNDs5m0lK/6QoONbMQlClGEjfIbKxaNUuoAtL8qCNf1nr9khBtqWdg3ny6QAvqnyVcnmP7BA==",
+      "path": "jwt/8.9.0",
+      "hashPath": "jwt.8.9.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "PemUtils/3.0.0.82": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LtsJ8LPfBN65+/ONfkJg8ZqcAxm59xRy4o5ocn2m4mAYo0EmmVslZ4SwcAViwfYDPL08Hu/vBbO2qamhtadeyQ==",
+      "path": "pemutils/3.0.0.82",
+      "hashPath": "pemutils.3.0.0.82.nupkg.sha512"
+    }
+  }
+}

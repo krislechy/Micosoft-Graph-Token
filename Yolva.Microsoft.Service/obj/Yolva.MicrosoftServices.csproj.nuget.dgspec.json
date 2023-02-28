@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\Yolva.MicrosoftServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\Yolva.MicrosoftServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\Yolva.MicrosoftServices.csproj",
+        "projectName": "Yolva.MicrosoftServices",
+        "projectPath": "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\Yolva.MicrosoftServices.csproj",
+        "packagesPath": "C:\\Users\\krislechy\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\Micosoft-Graph-Token\\Yolva.Microsoft.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\krislechy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "PemUtils": {
+              "target": "Package",
+              "version": "[3.0.0.82, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
